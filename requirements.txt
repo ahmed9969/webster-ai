@@ -1,0 +1,5 @@
+anthropic
+flask
+python-telegram-bot
+pymupdf
+python-docx
